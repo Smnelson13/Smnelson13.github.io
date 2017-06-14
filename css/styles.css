@@ -1,0 +1,35 @@
+/*.img-circle.shane {
+  margin: 40px 40px;
+  margin-top:0px;
+  width: 200px;
+}
+
+.bio-details * {
+  display: inline-block;
+}*/
+
+.user-header .img-circle {
+  width: 200px;
+  margin-right: 20px;
+}
+
+.user-header h3 {
+  display: inline-block;
+}
+
+/* Mobile defaults */
+.primary-image {
+  display: block;
+  float: none;
+  margin: 0 auto;
+}
+
+/* Desktop-only rules */
+@media (min-width: 620px) {
+  .primary-image {
+    display: inline-block;
+    float: left;
+    text-align: left;
+    margin: 0 20px 20px 0;
+  }
+}
