@@ -24,6 +24,10 @@
   margin: 0 auto;
 }
 
+.tiy-title {
+  text-align: center;
+}
+
 /* Desktop-only rules */
 @media (min-width: 620px) {
   .primary-image {
