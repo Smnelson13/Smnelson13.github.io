@@ -27,8 +27,8 @@
 
 .name-component {
 text-align: center;
-padding-top: 60px;
-padding-bottom: 40px;
+padding-top: 100px;
+padding-bottom: 70px;
 }
 
 .cta-content {
@@ -56,12 +56,4 @@ padding-bottom: 40px;
     font-size: 65px;
   }
 
-  /*.header-content-top {
-    margin-left: 33%;
-  }*/
-
-  /*.header-container {
-    margin-left: 33%;
-    text-align: center;
-  }*/
 }
