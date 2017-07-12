@@ -8,6 +8,7 @@
   display: inline-block;
 }*/
 
+
 .user-header .img-circle {
   width: 200px;
   margin-right: 20px;
@@ -28,6 +29,8 @@
   text-align: center;
 }
 
+
+
 /* Desktop-only rules */
 @media (min-width: 620px) {
   .primary-image {
@@ -39,4 +42,21 @@
   .tiy-title {
     text-align: left;
   }
+  .name-component {
+    margin-top: 327px;
+    text-align: center;
+  }
+
+  .name-component h1 {
+    font-size: 65px;
+  }
+
+  /*.header-content-top {
+    margin-left: 33%;
+  }*/
+
+  /*.header-container {
+    margin-left: 33%;
+    text-align: center;
+  }*/
 }
