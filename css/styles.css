@@ -31,6 +31,10 @@ padding-top: 60px;
 padding-bottom: 40px;
 }
 
+.cta-content {
+  text-align: center;
+}
+
 
 /* Desktop-only rules */
 @media (min-width: 620px) {
